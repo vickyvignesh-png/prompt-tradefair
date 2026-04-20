@@ -22,7 +22,6 @@ const industryData = [
 const ReportingCharts = () => {
   return (
     <>
-      {/* 
       <section className="reporting-charts-section" style={{ padding: '80px 0', background: '#fff' }}>
         <div className="container">
           <div className="premium-header-box centered">
@@ -92,7 +91,6 @@ const ReportingCharts = () => {
           </div>
         </div>
       </section>
-      */}
     </>
   );
 };
